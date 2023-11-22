@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_home"
+        android:icon="@drawable/icon_box_f"
+        android:enabled="true"
+        android:title="Home"/>
+    <item
+        android:id="@+id/item_order"
+        android:icon="@drawable/icon_order_f"
+        android:enabled="true"
+        android:title="Home"/>
+    <item
+        android:id="@+id/item_chats"
+        android:icon="@drawable/baseline_message_24"
+        android:enabled="true"
+        android:title="Chats"/>
+</menu>
